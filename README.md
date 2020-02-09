@@ -1,2 +1,3 @@
 # csci7-Tony
-pythonclass
+# pythonclass
+lecture 01 [slides]
